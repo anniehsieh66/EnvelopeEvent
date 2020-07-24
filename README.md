@@ -78,7 +78,7 @@
 
 - `GET` `/api/{ eventId }`
 
-`GET` `/api/1234`
+`GET` `/api/9527`
 
 **Response**
 
