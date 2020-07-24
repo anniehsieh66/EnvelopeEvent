@@ -22,7 +22,7 @@
 
 ## 取得所有活動
 
-- `GET` `/marketing/api/events`
+- `GET` `/api/events`
 
 **Response**
 ```
@@ -76,9 +76,9 @@
 
 ## 取得活動內容
 
-- `GET` `/marketing/api/{ eventId }`
+- `GET` `/api/{ eventId }`
 
-`GET` `/marketing/api/1234`
+`GET` `/api/1234`
 
 **Response**
 
@@ -134,7 +134,7 @@
 
 ## 發送獎勵
 
-- `POST` `/marketing/api/events/award`
+- `POST` `/api/events/award`
 
 **Request Parameter**
 
